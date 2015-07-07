@@ -1,4 +1,3 @@
-# Libraries
 Android Popular library
 ========================
 
