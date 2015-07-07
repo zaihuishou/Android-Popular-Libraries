@@ -12,16 +12,16 @@ Android Popular library
  Gson Paser:
  
    　LoganSquare  https://github.com/bluelinelabs/LoganSquare
-   　Gson https://github.com/google/gson
+   　Gson         https://github.com/google/gson
  
  Dependency Injection:
  
-    Dagger  https://github.com/square/Dagger
+    Dagger       https://github.com/square/Dagger
     Butterknife  https://github.com/JakeWharton/butterknife
  
  Http:
  
-    OKhttp https://github.com/square/okhttp
+    OKhttp              https://github.com/square/okhttp
     Android-async-http  https://github.com/loopj/android-async-http
  
  EventBus:
@@ -31,5 +31,5 @@ Android Popular library
  
  Animations:
  
-    Rebound https://github.com/facebook/rebound
+    Rebound         https://github.com/facebook/rebound
     NineOldAndroids https://github.com/JakeWharton/NineOldAndroids
