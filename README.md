@@ -4,20 +4,20 @@ Android Popular library
 
  Image loader:
  
-   Picasso https://github.com/square/picasso
-   Glide   https://github.com/bumptech/glide
-   Fresco  https://github.com/facebook/fresco
-   Universal-image-loader https://github.com/search?utf8=%E2%9C%93&q=universal-image-loader
-   
+    Picasso https://github.com/square/picasso
+    Glide   https://github.com/bumptech/glide
+    Fresco  https://github.com/facebook/fresco
+    Universal-image-loader https://github.com/search?utf8=%E2%9C%93&q=universal-image-loader
+ 
  Gson Paser
  
    　LoganSquare  https://github.com/bluelinelabs/LoganSquare
    　Gson https://github.com/google/gson
-   　
+ 
  Dependency Injection
  
-     Dagger  https://github.com/square/Dagger
-     Butterknife  https://github.com/JakeWharton/butterknife
+    Dagger  https://github.com/square/Dagger
+    Butterknife  https://github.com/JakeWharton/butterknife
  
  Http
  
