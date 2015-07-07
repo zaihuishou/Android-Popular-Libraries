@@ -2,7 +2,7 @@
 Android Popular library
 ========================
 
- ##Image loader:
+##Image loader
 
 * [Picasso](https://github.com/square/picasso)<br>
 * [Glide](https://github.com/bumptech/glide)
@@ -14,21 +14,21 @@ Android Popular library
 * [LoganSquare](https://github.com/bluelinelabs/LoganSquare)
 * [Gson](https://github.com/google/gson)
  
- ##Dependency Injection
+##Dependency Injection
 * [Dagger](https://github.com/square/Dagger)
 * [Butterknife](https://github.com/JakeWharton/butterknife)
  
- ##Http
+##Http
 
 * [OKhttp](https://github.com/square/okhttp)
 * [Android-async-http](https://github.com/loopj/android-async-http)
  
- ##EventBus
+##EventBus
 
 * [EventBus](https://github.com/greenrobot/EventBus)
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid)
  
- ##Animations
+##Animations
  
 * [Rebound](https://github.com/facebook/rebound)
 * [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
