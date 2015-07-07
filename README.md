@@ -8,7 +8,8 @@ Android Popular library
 * [Fresco](https://github.com/facebook/fresco)
 * [Universal-image-loader](https://github.com/search?utf8=%E2%9C%93&q=universal-image-loader)
 * [Picasso vs Glide](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
-##Gson Paser
+
+##Gson Parse
 
 * [LoganSquare](https://github.com/bluelinelabs/LoganSquare)
 * [Gson](https://github.com/google/gson)
