@@ -36,6 +36,11 @@ Android Popular library
 * [Rebound](https://github.com/facebook/rebound)
 * [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
 
+##More
+
+* [Android arsenal](https://android-arsenal.com/)
+* [More and more](http://blog.csdn.net/forlong401/article/details/26848951)
+
 ##License
 ```xml
    Copyright 2015 Eric Liu
