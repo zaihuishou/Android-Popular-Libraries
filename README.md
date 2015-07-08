@@ -2,13 +2,13 @@ Android Popular library
 ========================
 
 ##Image loader
-```xml
+
 * [Picasso](https://github.com/square/picasso)
 * [Glide](https://github.com/bumptech/glide)
 * [Fresco](https://github.com/facebook/fresco)
 * [Universal-image-loader](https://github.com/search?utf8=%E2%9C%93&q=universal-image-loader)
 * [Picasso vs Glide](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
-```
+
 
 ##Gson Parse
 
@@ -35,7 +35,7 @@ Android Popular library
 * [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
 
 ##License
-
+```xml
    Copyright 2015 Eric Liu
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -49,3 +49,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+```
