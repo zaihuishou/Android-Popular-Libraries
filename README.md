@@ -25,6 +25,8 @@ Android Popular library
 * [OKhttp](https://github.com/square/okhttp)
 * [Android-async-http](https://github.com/loopj/android-async-http)
 * [Ion](https://github.com/koush/ion)
+
+* [Android Networking I: OkHttp, Volley and Gson](https://medium.com/@sotti/android-networking-i-okhttp-volley-and-gson-72004efff196)
  
 ##EventBus
 
