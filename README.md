@@ -44,7 +44,7 @@ Android Popular library
 
 ##License
 ```xml
-   Copyright 2015 Eric Liu
+   Copyright 2015 Cruise Tan
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
