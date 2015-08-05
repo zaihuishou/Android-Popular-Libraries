@@ -37,7 +37,7 @@ Android Popular library
 * [Rebound](https://github.com/facebook/rebound)
 * [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
 
-## JOE'S GREAT ADAPTER HELL ESCAPE
+## AdapterDelegate
 * ["Favor composition over inheritance" for RecyclerView Adapters](https://github.com/sockeqwe/AdapterDelegates)
 
 ##More
