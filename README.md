@@ -40,14 +40,14 @@ Android Popular library
 ## AdapterDelegate
 * ["Favor composition over inheritance" for RecyclerView Adapters](https://github.com/sockeqwe/AdapterDelegates)
 
+## Camera
+* [StickerCamera](https://github.com/Skykai521/StickerCamera)
+* [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
+
 ##More
 
 * [Android arsenal](https://android-arsenal.com/)
 * [More and more](http://blog.csdn.net/forlong401/article/details/26848951)
-
-## Camera
-* [StickerCamera](https://github.com/Skykai521/StickerCamera)
-* [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
 
 
 ##License
