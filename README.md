@@ -45,6 +45,11 @@ Android Popular library
 * [Android arsenal](https://android-arsenal.com/)
 * [More and more](http://blog.csdn.net/forlong401/article/details/26848951)
 
+## Camera
+*[StickerCamera](https://github.com/Skykai521/StickerCamera)
+*[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
+
+
 ##License
 ```xml
    Copyright 2015 Cruise Tan
