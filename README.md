@@ -46,8 +46,8 @@ Android Popular library
 * [More and more](http://blog.csdn.net/forlong401/article/details/26848951)
 
 ## Camera
-*[StickerCamera](https://github.com/Skykai521/StickerCamera)
-*[LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
+* [StickerCamera](https://github.com/Skykai521/StickerCamera)
+* [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
 
 
 ##License
