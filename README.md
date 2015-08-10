@@ -49,6 +49,9 @@ Android Popular library
 * [Android arsenal](https://android-arsenal.com/)
 * [More and more](http://blog.csdn.net/forlong401/article/details/26848951)
 
+##Plugins
+* [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)
+
 
 ##License
 ```xml
