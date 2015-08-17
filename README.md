@@ -15,7 +15,12 @@ Android Popular Tools
 
 * [LoganSquare](https://github.com/bluelinelabs/LoganSquare)
 * [Gson](https://github.com/google/gson)
+
+
+##Serialization library 
+* [flatbuffers](https://github.com/google/flatbuffers)
  
+
 ##Dependency Injection
 * [Dagger](https://github.com/square/Dagger)
 * [Butterknife](https://github.com/JakeWharton/butterknife)
