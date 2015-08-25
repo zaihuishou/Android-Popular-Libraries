@@ -59,6 +59,7 @@ Android Popular Tools
 ##Plugins
 * [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)
 * [LayoutCast](https://github.com/mmin18/LayoutCast)
+* [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin)
 
 ##More
 
