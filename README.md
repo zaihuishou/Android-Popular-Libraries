@@ -9,7 +9,7 @@ Android Popular Tools
 * [Universal-image-loader](https://github.com/search?utf8=%E2%9C%93&q=universal-image-loader)
 * [Ion](https://github.com/koush/ion)
 * [Picasso vs Glide](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
-*
+
 ##Image Operate
 * [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView)
 * [glide-transformations](https://github.com/wasabeef/glide-transformations)
