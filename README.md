@@ -49,19 +49,21 @@ Android Popular Tools
 ## AdapterDelegate
 * ["Favor composition over inheritance" for RecyclerView Adapters](https://github.com/sockeqwe/AdapterDelegates)
 
+## Git
+* [GitUP](https://github.com/git-up/GitUp)
+
 ## Camera
 * [StickerCamera](https://github.com/Skykai521/StickerCamera)
 * [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
-
-##More
-
-* [Android arsenal](https://android-arsenal.com/)
-* [More and more](http://blog.csdn.net/forlong401/article/details/26848951)
 
 ##Plugins
 * [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)
 * [LayoutCast](https://github.com/mmin18/LayoutCast)
 
+##More
+
+* [Android arsenal](https://android-arsenal.com/)
+* [More and more](http://blog.csdn.net/forlong401/article/details/26848951)
 
 ##License
 ```xml
