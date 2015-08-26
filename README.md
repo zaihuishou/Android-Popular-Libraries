@@ -49,8 +49,8 @@ Android Popular Tools
 ## AdapterDelegate
 * ["Favor composition over inheritance" for RecyclerView Adapters](https://github.com/sockeqwe/AdapterDelegates)
 
-## Git
-* [GitUP](https://github.com/git-up/GitUp)
+## ORM
+* [SnappyDB](https://github.com/nhachicha/SnappyDB)
 
 ## Camera
 * [StickerCamera](https://github.com/Skykai521/StickerCamera)
