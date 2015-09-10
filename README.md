@@ -16,6 +16,7 @@ Android Popular Tools
 ##Image Operate
 * [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView)
 * [glide-transformations](https://github.com/wasabeef/glide-transformations)
+* [Pixelate 将图片像素化显示](https://github.com/DanielMartinus/Pixelate)
 
 
 ##Gson Parse
