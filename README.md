@@ -28,6 +28,8 @@ Android Popular Tools
 ##Serialization library 
 * [flatbuffers](https://github.com/google/flatbuffers)
  
+##Mvp
+* [mosby](https://github.com/sockeqwe/mosby)
 
 ##Dependency Injection
 * [Dagger](https://github.com/square/Dagger)
