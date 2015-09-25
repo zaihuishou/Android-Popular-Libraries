@@ -65,6 +65,9 @@ Android Popular Tools
 * [LayoutCast](https://github.com/mmin18/LayoutCast)
 * [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin)
 
+##Bug
+* [Bugtags](https://github.com/bugtags/Bugtags-Android)
+
 ##More
 
 * [Android arsenal](https://android-arsenal.com/)
