@@ -50,6 +50,9 @@ Android Popular Tools
 * [Rebound](https://github.com/facebook/rebound)
 * [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
 
+##RecyclerView
+* [Dividers](https://github.com/Karumi/Dividers)
+
 ## AdapterDelegate
 * ["Favor composition over inheritance" for RecyclerView Adapters](https://github.com/sockeqwe/AdapterDelegates)
 
