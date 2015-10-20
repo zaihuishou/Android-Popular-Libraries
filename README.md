@@ -65,10 +65,11 @@ Android Popular Tools
 * [StickerCamera](https://github.com/Skykai521/StickerCamera)
 * [LandscapeVideoCamera](https://github.com/JeroenMols/LandscapeVideoCamera)
 
-##Plugins
+##Android Studio Plugins
 * [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)
 * [LayoutCast](https://github.com/mmin18/LayoutCast)
 * [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin)
+* [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB)
 
 ##Bug
 * [Bugtags](https://github.com/bugtags/Bugtags-Android)
