@@ -24,6 +24,16 @@ Android Popular Tools
 * [LoganSquare](https://github.com/bluelinelabs/LoganSquare)
 * [Gson](https://github.com/google/gson)
 
+##BarCode
+
+* [DimensCodeTools](https://github.com/ng2Kaming/DimensCodeTools)
+
+##Recyclerview
+* [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)
+
+##Loading
+
+* [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
 
 ##Serialization library 
 * [flatbuffers](https://github.com/google/flatbuffers)
