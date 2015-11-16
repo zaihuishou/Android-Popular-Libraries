@@ -82,6 +82,9 @@ Android Popular Tools
 * [LayoutCast](https://github.com/mmin18/LayoutCast)
 * [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin)
 * [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB)
+ 
+##Log
+* [KLog](https://github.com/ZhaoKaiQiang/KLog)
 
 ##Bug
 * [Bugtags](https://github.com/bugtags/Bugtags-Android)
