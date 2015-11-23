@@ -17,6 +17,7 @@ Android Popular Tools
 * [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView)
 * [glide-transformations](https://github.com/wasabeef/glide-transformations)
 * [Pixelate 将图片像素化显示](https://github.com/DanielMartinus/Pixelate)
+* [scissors Android image cropping library](https://github.com/lyft/scissors)
 
 ##Charts
 
@@ -48,7 +49,7 @@ Android Popular Tools
 * [flatbuffers](https://github.com/google/flatbuffers)
  
 ##Mvp
-
+
 * [mosby](https://github.com/sockeqwe/mosby)
 
 ##Dependency Injection
