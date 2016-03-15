@@ -94,6 +94,7 @@ Android Popular Tools
 * [LayoutCast](https://github.com/mmin18/LayoutCast)
 * [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin)
 * [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB)
+* [BorePlugin](https://github.com/boredream/BorePlugin)
  
 ##Log
 
