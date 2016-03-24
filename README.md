@@ -95,6 +95,7 @@ Android Popular Tools
 * [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin)
 * [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB)
 * [BorePlugin](https://github.com/boredream/BorePlugin)
+* [Android Localizationer](http://blog.csdn.net/u013278099/article/details/49865177)
  
 ##Log
 
