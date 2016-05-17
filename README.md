@@ -10,11 +10,6 @@ Android Popular Tools
 * [Ion](https://github.com/koush/ion)
 * [Picasso vs Glide](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
 
-##Image Operate
-
-*[Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)
-
-
 ##SVG
 * [vectalign](https://github.com/bonnyfone/vectalign)
 
@@ -23,6 +18,7 @@ Android Popular Tools
 * [glide-transformations](https://github.com/wasabeef/glide-transformations)
 * [Pixelate 将图片像素化显示](https://github.com/DanielMartinus/Pixelate)
 * [scissors Android image cropping library](https://github.com/lyft/scissors)
+ *[Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)
 
 ##Charts
 
