@@ -50,7 +50,7 @@ Android Popular Tools
 * [flatbuffers](https://github.com/google/flatbuffers)
  
 ##Mvp
-
+
 * [mosby](https://github.com/sockeqwe/mosby)
 
 ##Dependency Injection
@@ -111,6 +111,9 @@ Android Popular Tools
 
 * [Android arsenal](https://android-arsenal.com/)
 * [More and more](http://blog.csdn.net/forlong401/article/details/26848951)
+
+##BottomTab
+* [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)
 
 ##License
 ```xml
