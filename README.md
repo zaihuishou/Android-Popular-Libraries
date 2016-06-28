@@ -75,6 +75,9 @@ Android Popular Tools
 * [Rebound](https://github.com/facebook/rebound)
 * [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
 
+##BottomBar
+* [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)
+* [BottomBar](https://github.com/roughike/BottomBar)
 
 ## AdapterDelegate
 
@@ -112,8 +115,6 @@ Android Popular Tools
 * [Android arsenal](https://android-arsenal.com/)
 * [More and more](http://blog.csdn.net/forlong401/article/details/26848951)
 
-##BottomTab
-* [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)
 
 ##License
 ```xml
