@@ -74,6 +74,7 @@ Android Popular Tools
  
 * [Rebound](https://github.com/facebook/rebound)
 * [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
+* [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)
 
 ##BottomBar
 * [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)
