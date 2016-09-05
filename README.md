@@ -37,6 +37,7 @@ Android Popular Tools
 
 * [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)
 * [Dividers](https://github.com/Karumi/Dividers)
+* [itemtouchhelper-extension](https://github.com/loopeer/itemtouchhelper-extension)
 
 ##PickView
 * [Android-PickerView](https://github.com/saiwu-bigkoo/Android-PickerView)
